@@ -1,0 +1,16 @@
+{
+  "name": "DB_Education",
+  "version": "0.0.1",
+  "description": "Platform form DB Education",
+  "keywords": [
+    "Design"
+  ],
+  "homepage": "NOT_DEFINED",
+  "repository": "NOT_DEFINED",
+  "author": "atvelDev",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "*",
+    "ws": "^4.0.0"
+  }
+}

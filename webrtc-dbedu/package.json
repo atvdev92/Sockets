@@ -1,0 +1,11 @@
+{
+  "name": "webrtc-videochat",
+  "version": "0.1.0",
+  "description": "webrtc-videochat",
+  "author": "Author",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
